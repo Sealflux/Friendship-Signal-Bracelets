@@ -1,0 +1,1 @@
+In the firmware folder, we should have the code along with instructions on how to install/use the code.
