@@ -5,6 +5,6 @@ First off, I began researching the type of gesture I want to trigger the signal 
 ## July 20th: BOM & Schematic
 Part 1 (2 Am grind session)
 Doing the BOM of the project. Putting all of the parts, quantity, cost, link and LCSC Part number. I'm also gonna begin the schematic of the bracelet.
-I'm kinda fried rn, its 2:43 AM, I decided to use RGB LEDS to be part of the design instead of warm white LEDS because I think it would be cooler in terms of lighting! Alright imma go to sleep now. I need to update the BOM tomorrow! For the schematic, I'm going to daisy chain the LEDs in order to have more pins/space for the MCU. Also I'm gonna continue this after i sleep as well so uhh yeah.
+I'm kinda fried rn, its 2:43 AM, I decided to use RGB LEDS to be part of the design instead of warm white LEDS because I think it would be cooler in terms of lighting! Alright imma go to sleep now. I need to update the BOM tomorrow! For the schematic, I'm going to daisy chain the LEDs in order to have more pins/space for the MCU. Also I'm gonna continue this after i sleep as well so uhh yeah. ![image](https://cdn.hackclub.com/019f7e4b-1b6f-733e-8d1a-aee28015eba9/paste-1784530278718.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/CnL-RgcvxC9W
