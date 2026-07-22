@@ -8,3 +8,15 @@ Doing the BOM of the project. Putting all of the parts, quantity, cost, link and
 I'm kinda fried rn, its 2:43 AM, I decided to use RGB LEDS to be part of the design instead of warm white LEDS because I think it would be cooler in terms of lighting! Alright imma go to sleep now. I need to update the BOM tomorrow! For the schematic, I'm going to daisy chain the LEDs in order to have more pins/space for the MCU. Also I'm gonna continue this after i sleep as well so uhh yeah. ![image](https://cdn.hackclub.com/019f7e4b-1b6f-733e-8d1a-aee28015eba9/paste-1784530278718.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/CnL-RgcvxC9W
+
+## July 21th: Finishing Schematic and Doing PCB
+
+I finished what I had currently however after doing the Schematic and PCb, I realized that I probably want it to vibrate so I'll be adding one of those coin motors to the design. Also I need to udpate the bom and stuff
+Finished Schematic* I need to add more stuff probably
+![image](https://cdn.hackclub.com/019f87a6-3d38-74a4-b46e-d572fc4a7f14/paste-1784687246389.png)
+Finished PCB* I need to probably redo after adding more stuff
+![image](https://cdn.hackclub.com/019f87a6-f88c-7570-984e-1c8a2c191da5/paste-1784687294180.png)
+PCBA:
+![image](https://cdn.hackclub.com/019f87a7-3a92-78b9-8d96-6dfc8220115a/paste-1784687311286.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/bK2I03S8tRUv

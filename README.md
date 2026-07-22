@@ -16,7 +16,7 @@ Two (or more) bracelets that light up, vibrate, and/or display a pattern when th
 | Tactile Push Button | 50 | $0.56 | https://www.lcsc.com/product-detail/C2888493.html | C2888493 |
 | LiPo 100mAh | 1 | $9.95 | https://www.amazon.com/EEMB-Battery-Rechargeable-Lithium-Connector/dp/B08FD3V6TF | N/A |
 | PCB Board | 5 | $2.10 | https://www.jlcpcb.com | N/A |
-
+| 
 ## Firmware
 
 ## Schematic
