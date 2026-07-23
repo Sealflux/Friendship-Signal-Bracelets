@@ -20,3 +20,7 @@ PCBA:
 ![image](https://cdn.hackclub.com/019f87a7-3a92-78b9-8d96-6dfc8220115a/paste-1784687311286.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/bK2I03S8tRUv
+
+## July 22th: Researching More Features
+
+Yesterday I finished the schematic and PCB and finished that. However, I've decided that adding a module that vibrates the bracelet would be a very cool features. Right the PCB design incorporates RGB LEDs, a buzzer, a button and a OLED screen. So when you send out a signal wave and the bracelet receives it back and notices your bestie being close by in proximity, the bracelet will show you who is close/near you, who it is, play a sound, and light in. I feel like adding a coin vibration motor or something that vibrates the bracelet would be a perfect addition. Along with this addition, I will also need to redo the schematic and PCB again tomorrow but thats fine. I spent so long trying to find the coin vibration motor on LCSC but couldn't find it. ![image](https://cdn.hackclub.com/019f8cbe-4ae0-79b0-9424-acdc7ac8141b/image.png)
