@@ -9,7 +9,7 @@ I'm kinda fried rn, its 2:43 AM, I decided to use RGB LEDS to be part of the des
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/CnL-RgcvxC9W
 
-## July 21th: Finishing Schematic and Doing PCB
+## July 21st: Finishing Schematic and Doing PCB
 
 I finished what I had currently however after doing the Schematic and PCb, I realized that I probably want it to vibrate so I'll be adding one of those coin motors to the design. Also I need to udpate the bom and stuff
 Finished Schematic* I need to add more stuff probably
@@ -21,6 +21,14 @@ PCBA:
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/bK2I03S8tRUv
 
-## July 22th: Researching More Features
+## July 22nd: Researching More Features
 
 Yesterday I finished the schematic and PCB and finished that. However, I've decided that adding a module that vibrates the bracelet would be a very cool features. Right the PCB design incorporates RGB LEDs, a buzzer, a button and a OLED screen. So when you send out a signal wave and the bracelet receives it back and notices your bestie being close by in proximity, the bracelet will show you who is close/near you, who it is, play a sound, and light in. I feel like adding a coin vibration motor or something that vibrates the bracelet would be a perfect addition. Along with this addition, I will also need to redo the schematic and PCB again tomorrow but thats fine. I spent so long trying to find the coin vibration motor on LCSC but couldn't find it. ![image](https://cdn.hackclub.com/019f8cbe-4ae0-79b0-9424-acdc7ac8141b/image.png)
+
+## July 23rd: Implementing an accelerometer and microphone into design and not doing vibration motor.
+
+I don't know how to connect the coin vibration motor. Perhaps a connector of 1 by 2 will be enough for the coin vibration motor. It seems that the coin vibration motor just needs to be powered to turn on. I'm still not sure how I'm supposed to connect the coin vibration motor as I'm not very familiar with Digikey compared to LCSC. Yeah I'm not sure how to connect this coin vibration motor. I'll replace this coin vibration motor with a microphone. So perhaps we can add a messenging system or something, like press the button to send a signal and once connected to another bracelet, you can hold the button to speak into the microphone to record a message and then send it. Also I feel like the coin vibration motor is redundant with the RGB lighting already. With the microphone addition, I might as well make the bracelet a whole entire safety device as well. So I'll add an accelerometer so if you like get into a car accident, the sudden motion will be picked up by the accelerometer and with correlation from the microphone can detect an accident and then send out SOS signals. For both of these additions, the microhpone and accelerometer also include the addition of the capacitors needed for them. For the microphone, an addition of a 100nF capacitor and a 100kOhm pull-down resistor. For the accelerometer, an addition of a 220 nF, two 100 nF, and a 10 uF capacitor.
+I've began the schematic incoroporation of the accelerometer. I'll finish it and the microphone tomorrow!
+![image](https://cdn.hackclub.com/019f916e-2c92-7d07-ab1c-b4bb8a15173e/paste-1784851344226.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/o5ep2N4YsLN6
