@@ -32,3 +32,10 @@ I've began the schematic incoroporation of the accelerometer. I'll finish it and
 ![image](https://cdn.hackclub.com/019f916e-2c92-7d07-ab1c-b4bb8a15173e/paste-1784851344226.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/o5ep2N4YsLN6
+
+## July 24th: Finished implementing the accelerometer and microphone into the design.
+
+For today, I just finished implementing the accelerometer and microphone into the design. Unlike the 0.96 " OLED, that is able to directly take 3.3 Volts, both the acclerometer and microphone needs a LDO along with a level shifter because of the data being fed out being lower potential. Also I needed a pull down resistor for the microphone along with some other stuff. I'll do the BOM once I finalize everything because otherwise its a constant hassle to change it over and over again. I also organized and labeled the schematic so its nice and clean!. Heres the finished schematic* maybe if I don't add or remove anything else!
+![image](https://cdn.hackclub.com/019f9609-b4df-7a52-bcc8-1f520ab94f5d/paste-1784928646159.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/MKJ2zy4voQ4b
