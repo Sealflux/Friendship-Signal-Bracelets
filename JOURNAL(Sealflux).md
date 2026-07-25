@@ -39,3 +39,9 @@ For today, I just finished implementing the accelerometer and microphone into th
 ![image](https://cdn.hackclub.com/019f9609-b4df-7a52-bcc8-1f520ab94f5d/paste-1784928646159.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/MKJ2zy4voQ4b
+
+## July 25th: Began implementing the PCB structure.
+I began with deleting the old PCB design and added all of the new PCB components. I also began structuring my PCB, lining up certain components and at certain spaces. I also decided to wire/route all of the traces tomorrow as right now I want to come up with the most efficient space wise design as this is going into a wearable(bracelet). I think instead of routing traces for the ground of the PCB design, I'll use a ground plane so its easier. Most of the components are already top routed anyway so it should make the design more efficient. I don't know how to do a ground plane so I'll probably spend some time researching how to do that tomorrow as well. So yeah thats it for today! Heres the current PCB design:
+![image](https://cdn.hackclub.com/019f9ba5-9be9-79c0-acde-9093badceb88/paste-1785022748976.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/ry9qcLeaWOjL   
