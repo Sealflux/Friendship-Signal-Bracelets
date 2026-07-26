@@ -45,3 +45,11 @@ I began with deleting the old PCB design and added all of the new PCB components
 ![image](https://cdn.hackclub.com/019f9ba5-9be9-79c0-acde-9093badceb88/paste-1785022748976.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/ry9qcLeaWOjL   
+
+## July 26th: Finished the PCB and had a headache doing it.
+I started with making a ground plane and began routing all of the traces which were fine until I started routing the acclerometer, the level shifter, the low dropout regulator and the microphone, these were front loaded which made things a pain to route until I realized that I can still use the back plane, as the ground plane will simply not intersect at those vias if I used the back plane at those points. This fixed the stalemate/headache that I had when routing the traces. Heres everything finalized* I think maybe, I'll probably update the design to make it more efficient but this is sufficient so far. 
+Schematic: ![image](https://cdn.hackclub.com/019fa081-dd6f-7408-8bfe-3449cb5a6e5a/paste-1785104292713.png)
+PCB: ![image](https://cdn.hackclub.com/019fa082-33dc-7e69-a8c7-730d42b7e6b7/paste-1785104315064.png)
+PCBA: ![image](https://cdn.hackclub.com/019fa081-6a71-7ca9-ae38-88b025ed37ae/paste-1785104263474.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/NMeOHii6G4NA
