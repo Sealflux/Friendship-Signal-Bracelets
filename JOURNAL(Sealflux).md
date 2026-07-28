@@ -53,3 +53,9 @@ PCB: ![image](https://cdn.hackclub.com/019fa082-33dc-7e69-a8c7-730d42b7e6b7/past
 PCBA: ![image](https://cdn.hackclub.com/019fa081-6a71-7ca9-ae38-88b025ed37ae/paste-1785104263474.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/NMeOHii6G4NA
+
+## July 27th: Started the Cad models in fusion
+I started with getting some 3d models for the PCB so its easier for me to design the enclosure of the PCB visually in Fusion. I then started sketching an enclosure for the PCB :D. This is what I have so far and I'll continue tomorrow!
+![image](https://cdn.hackclub.com/019fa64a-c628-7f9b-862f-d62c9b09193e/paste-1785201345765.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/Tswan7ZMvzGd
