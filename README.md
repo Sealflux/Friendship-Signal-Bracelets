@@ -27,12 +27,12 @@ Two (or more) bracelets that light up, vibrate, and/or display a pattern when th
 ## Firmware
 
 ## Schematic
-
+![image](https://cdn.hackclub.com/019fa081-dd6f-7408-8bfe-3449cb5a6e5a/paste-1785104292713.png)
 ## PCB
-
+![image](https://cdn.hackclub.com/019fa082-33dc-7e69-a8c7-730d42b7e6b7/paste-1785104315064.png)
 ## PCBA
-
+![image](https://cdn.hackclub.com/019fa081-6a71-7ca9-ae38-88b025ed37ae/paste-1785104263474.png)
 ## Case
-
+![image](https://cdn.hackclub.com/019fa64a-c628-7f9b-862f-d62c9b09193e/paste-1785201345765.png)
 ## Demo Video
  
