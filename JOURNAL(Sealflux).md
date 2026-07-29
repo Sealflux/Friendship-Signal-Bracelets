@@ -59,3 +59,9 @@ I started with getting some 3d models for the PCB so its easier for me to design
 ![image](https://cdn.hackclub.com/019fa64a-c628-7f9b-862f-d62c9b09193e/paste-1785201345765.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/Tswan7ZMvzGd
+
+## July 29th: Mentally fried while desigining case
+I started with fixing my PCB because it seems that the button was overlapping with the OLED so I fixed that. As a result I also needed to update the Production of gerber files and the PCB files which I did. Now for the case, I was just staring at it while also thinking of how the hell am I supposd to make it so that the person is able to press the button as while as attach this case/pod with a watch strap as its supposed to be a bracelet.
+![image](https://cdn.hackclub.com/019fafcc-1054-7edb-8533-4e646694624c/paste-1785360813876.png)
+
+### Lapse Link: 
