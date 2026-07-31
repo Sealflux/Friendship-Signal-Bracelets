@@ -64,4 +64,10 @@ I started with getting some 3d models for the PCB so its easier for me to design
 I started with fixing my PCB because it seems that the button was overlapping with the OLED so I fixed that. As a result I also needed to update the Production of gerber files and the PCB files which I did. Now for the case, I was just staring at it while also thinking of how the hell am I supposd to make it so that the person is able to press the button as while as attach this case/pod with a watch strap as its supposed to be a bracelet.
 ![image](https://cdn.hackclub.com/019fafcc-1054-7edb-8533-4e646694624c/paste-1785360813876.png)
 
-### Lapse Link: 
+### Lapse Link: https://lapse.hackclub.com/timelapse/m1o0u2HX9UKT
+
+## July 30th: Another day of trying to cad the case while not being able to :C
+I started by revamping the case with a projection of the PCB to ensure better accuracy and fit for the PCB in the case. Then I shelled out the extrusion of the projection that was offset by a couple mms as I didn't want the USB C to extrude/be out compared to be inside. That was the easy part, the more complex part is the top of the case which I am still working on as I need a way for the person to see the leds, the OLED along with pressing the button while also having straps to fit a watch strap or wrist strap. 
+![image](https://cdn.hackclub.com/019fb5c1-ed44-7c97-a893-845503d0bb87/paste-1785460812779.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/o3BgAJiJEnb6
