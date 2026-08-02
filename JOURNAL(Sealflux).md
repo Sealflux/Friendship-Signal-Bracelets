@@ -71,3 +71,9 @@ I started by revamping the case with a projection of the PCB to ensure better ac
 ![image](https://cdn.hackclub.com/019fb5c1-ed44-7c97-a893-845503d0bb87/paste-1785460812779.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/o3BgAJiJEnb6
+
+## August 1st: Garmin watch inspiration???
+For the cad, I just cutout a large piece for that fixed the problem of not being able to press the button. This is a prototype, so it doesn't really need to be that pretty...
+Also I put these blocks extending out of the cad that mimics garmin watches quick fit thing, which I quite like.
+![image](https://cdn.hackclub.com/019fc00b-d2e8-7c92-9715-da4f5ed72b0b/paste-1785633427688.png)
+### Lapse Link: https://lapse.hackclub.com/timelapse/9wGJGA5CfSmj
