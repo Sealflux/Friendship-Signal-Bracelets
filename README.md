@@ -47,14 +47,7 @@ Two (or more) bracelets that light up, vibrate, and/or display a pattern when th
 | Total Costs | N/A | 1 | 11.49+16.94+7.12+27.98 | $63.53 | N/A | N/A |
 
 ## Firmware
-TBD by Ranen
-The firmware will handle
-1. BLE RSSI Detection
-2. LED patterns and light shows
-3. OLED display renderings
-4. Handling button to indicate searching
-5. SOS/Crash detection through Accelerometer and Microphone.
-6. Playing goofy sounds through the buzzer
+Basic functional firmware in `/firmware/friendship_bracelet.ino`.
 ## Steps To Reproduce
 1. Order all the components from the BOM
 2. Download the gerbers.zip from Production folder and order a pcb from whatever manufacturer(JLCPCB)
