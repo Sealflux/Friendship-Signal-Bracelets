@@ -74,6 +74,6 @@ The firmware will handle
 ## PCBA
 ![image](https://cdn.hackclub.com/019fa081-6a71-7ca9-ae38-88b025ed37ae/paste-1785104263474.png)
 ## Case
-![image](https://cdn.hackclub.com/019fa64a-c628-7f9b-862f-d62c9b09193e/paste-1785201345765.png)
+![image](https://cdn.hackclub.com/019fc57f-daff-7dda-ae0c-90170066348d/paste-1785724918210.png)
 ## Demo Video
  
