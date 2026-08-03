@@ -1,6 +1,6 @@
 Designator,Part,Qty,Cost (each),Total,Link,LCSC #
 U1,Seeed Xiao ESP32-C3,1,$4.99,$4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,N/A
-U2,SSD1306 0.96" OLED,1,$2.24,$2.24,https://www.lcsc.com/product-detail/C5248080.html,C5248080
+U2,SSD1306 0.96 Inch OLED,1,$2.24,$2.24,https://www.lcsc.com/product-detail/C5248080.html,C5248080
 SW1,Tactile Push Button,1,$0.56,$0.56,https://www.lcsc.com/product-detail/C2888493.html,C2888493
 BT1,LiPo 250mAh Battery,1,$8.99,$8.99,https://www.amazon.com/EEMB-Battery-Rechargeable-Lithium-Connector/dp/B08FD3V6TF,N/A
 PCB,PCB Board,5,$0.80,$4,https://www.jlcpcb.com,N/A
