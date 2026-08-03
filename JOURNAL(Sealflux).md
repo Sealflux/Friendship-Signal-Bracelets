@@ -77,3 +77,11 @@ For the cad, I just cutout a large piece for that fixed the problem of not being
 Also I put these blocks extending out of the cad that mimics garmin watches quick fit thing, which I quite like.
 ![image](https://cdn.hackclub.com/019fc00b-d2e8-7c92-9715-da4f5ed72b0b/paste-1785633427688.png)
 ### Lapse Link: https://lapse.hackclub.com/timelapse/9wGJGA5CfSmj
+
+## August 2nd: Finishing touches/organization
+Basically doing the BOM along wih adding everything to the readme and production files etc.
+Also I realized that I should probably add holes to the top of the case so the LEDs can shine their light, otherwise it would just bounce inside the case. No need for a lapse link, because it'll probably take only a couple of minutes to sketch some holes and remove them from the top.
+Heres the new look now.
+Ummm.. it took more than a couple minutes, but its fine.
+Uhh I did not expect it to take over 20 minutes, its fine.
+![image](https://cdn.hackclub.com/019fc57f-daff-7dda-ae0c-90170066348d/paste-1785724918210.png)

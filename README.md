@@ -5,11 +5,22 @@ Friendship Signal Bracelets, which as the name suggests, light up when a bestie 
 Two (or more) bracelets that light up, vibrate, and/or display a pattern when they come within ~3-5 meters of each other, using BLE (Bluetooth Low Energy) RSSI-based proximity detection.
 
 ## Features
-TBD
+- Proximity Detection - BLE RSSI(Bluetooth Low Energy Received Signal Strength Indicator) to detect nearby besties
+- Cool lights(6 LEDs) when your bestie is nearby
+- OLED Display(You can see which bestie is nearby!)
+- Audio beeping(Buzzer) when your friend is nearby
+- Microphone
 
 
 ## Hardware
-TBD
+- Seeed Xiao ESP32-C3
+- SSD1306 0.96" OLED
+- WS2812B-V6 LEDs
+- ICS-43434 Mems Microphone
+- ISM303DACTR Accelerometer
+- SPX3819M5-L-1-8 LDO
+- LSF0108PWR Level Shifter
+- 250mAh LiPo Battery
 
 
 ## Bill of Materials (BOM)
@@ -36,6 +47,25 @@ TBD
 | Total Costs | N/A | 1 | N/A | Sum after i add everything | N/A | N/A |
 
 ## Firmware
+TBD by Ranen
+The firmware will handle
+1. BLE RSSI Detection
+2. LED patterns and light shows
+3. OLED display renderings
+4. Handling button to indicate searching
+5. SOS/Crash detection through Accelerometer and Microphone.
+6. Playing goofy sounds through the buzzer
+## Steps To Reproduce
+1. Order all the components from the BOM
+2. Download the gerbers.zip from Production folder and order a pcb from whatever manufacturer(JLCPCB)
+3. Solder the components onto the PCB
+4. Download the enclosure from Production folder and print using PETG or TPU
+5. Order watch strap adapters
+6. Assemble the case, sand down the bottom and top parts and hot glue the together. The PCB will fit snugly
+7. Flash the Firmware onto the PCB
+8. Now repeat steps 1 and 7 for a second bracelet
+9. Enjoy!
+
 
 ## Schematic
 ![image](https://cdn.hackclub.com/019fa081-dd6f-7408-8bfe-3449cb5a6e5a/paste-1785104292713.png)
