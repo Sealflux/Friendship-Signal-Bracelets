@@ -43,7 +43,7 @@ Two (or more) bracelets that light up, vibrate, and/or display a pattern when th
 | U5 | SPX3819M5-L-1-8 Voltage Regulator | 1 | $0.1437 | $0.72(Min order of 5) | https://www.lcsc.com/product-detail/C24639.html | C24639 |
 | U6 | LSF0108PWR Level Shifter | 1 | $0.5849 | $0.5849 | https://www.lcsc.com/product-detail/C190219.html | C190219 |
 | BUZZER1 | 1207-P6.5MM Buzzer | 1 | $0.0317 | $0.32(Min order of 10) | https://www.lcsc.com/product-detail/C49246964.html | C49246964 |
-| Shipping | N/A | 1 | Seeed($6.5) + LCSC($9.58) + Amazon($7.95) + JLCPCB($3.12) | Sum after i calculate | N/A | N/A
+| Shipping | N/A | 1 | Seeed($6.5) + LCSC($9.58) + Amazon($7.95) + JLCPCB($3.12) | N/A | N/A | N/A
 | Total Costs | N/A | 1 | 11.49+16.94+7.12+27.98 | $63.53 | N/A | N/A |
 
 ## Firmware
